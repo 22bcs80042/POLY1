@@ -1,5 +1,5 @@
 # polyproof
-#  create a Auction app frontend and deploy it on the Localhost network
+#  create a token bridge to transfer token from ethereum to polygon network
 This repository is made for my polyproof 1 project which is used create NFTs using ERC712A token and deploy ,mint and mapped this on goerili network and transfer this on different ethereum to polygon network using fxportal bridge. 
 
 ## Problem Statement
